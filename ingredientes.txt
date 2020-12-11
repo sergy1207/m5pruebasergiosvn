@@ -1,2 +1,4 @@
 patata
 cebolla
+pangolin
+zanahoria
